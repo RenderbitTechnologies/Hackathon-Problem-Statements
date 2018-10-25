@@ -39,8 +39,8 @@ For the demonstration of the system, you may use pre-filled data. We would like 
 
 ## Bonus credits
 
-* Make a web interface for both citizen & garbage collector
-* Implement a hybrid mobile app (Android/iOS)
+* Make a web interface for both citizen & garbage collector.
+* Implement a hybrid mobile app (Android/iOS).
 * Make an admin web interface where we can see all garbage trucks, citizens, collection requests (past & upcoming) etc.
 * Implement a waste classification helper for citizen which suggests what waste category it is after the citizen takes a photo of the waste. It can suggest multiple categories as well.
 
