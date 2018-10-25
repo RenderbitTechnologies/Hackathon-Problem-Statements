@@ -8,7 +8,7 @@ Road congestion may be reduced by the use of good public transport management, t
 
 ## Problem Statement
 
-Design a car pooling system which takes into account the points of start & stop of the commuter and availability of cars at that particular point in time to match him with available vehilces. The system should be web-based.
+Design a car pooling system which takes into account the points of start & stop of the commuter and availability of cars at that particular point in time to match him with available vehilces. The system should be mobile app (Android) based.
 
 The system should have two interfaces:
 
@@ -32,13 +32,16 @@ The system should have two interfaces:
 
 ## Deliverables
 
-For the demonstration of the system, you may use pre-filled data. We would like to see the codebase route matching algorithm you are using. You can use any language or framework to create this system.
+For the demonstration of the system, you may use pre-filled data. We would like to see the codebase route matching algorithm you are using. We would also like to see your database schema. You can use any language or framework to create this system.
 
 ## Bonus credits
 
-* Make a mobile app for both vehicle owner & commuter
-* Make an admin interface where we can see all vehicle owners, commuters, trips, trip requests (past & upcoming) etc.
+* Make a web interface for both vehicle owner & commuter
+* Implement a hybrid mobile app (Android/iOS)
+* Make an admin web interface where we can see all vehicle owners, commuters, trips, trip requests (past & upcoming) etc.
 * Implement billing logic for each trip:
   * Vehicle owner mentions cost per kilometer and cost per minute for each vehicle
   * Trip data is collected from start & end time and distance computation
   * Payment is collected at end of trip
+
+&copy; 2018 Renderbit Technologies LLP. All rights reserved.
