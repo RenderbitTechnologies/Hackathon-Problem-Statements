@@ -44,4 +44,4 @@ For the demonstration of the system, you may use pre-filled data. We would like 
   * Trip data is collected from start & end time and distance computation
   * Payment is collected at end of trip
 
-&copy; 2018 Renderbit Technologies LLP. All rights reserved.
+_&copy; 2018 Renderbit Technologies LLP. All rights reserved._
