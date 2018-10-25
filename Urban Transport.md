@@ -14,10 +14,10 @@ The system should have two interfaces:
 
 ### Vehicle Owner
 
-* For a vehicle owner, it should give an option to add his vehicles(s) with appropriate parameters
-* The vehicle owner should be able to mention the availabilty of each vehicle for carpooling for at least the next 7 days
-* The vehicle owner should be able to see all upcoming carpooling requests and approve/reject each request
-* He should also be able to see a record of past trips
+* For a vehicle owner, it should give an option to add his vehicles(s) with appropriate parameters.
+* The vehicle owner should be able to mention the availabilty of each vehicle for carpooling for at least the next 7 days.
+* The vehicle owner should be able to see all upcoming carpooling requests and approve/reject each request.
+* He should also be able to see a record of past trips.
 
 ### Commuter
 
@@ -25,9 +25,9 @@ The system should have two interfaces:
   * Trip start location
   * Trip end location
   * Trip start date & time
-* He should be able to send carpooling requests to multiple car owners for at least the next 7 days
-* He should be able to see all upcoming trips with status (approved/rejected)
-* He should be able to see all past trips
+* He should be able to send carpooling requests to multiple car owners for at least the next 7 days.
+* He should be able to see all upcoming trips with status (approved/rejected).
+* He should be able to see all past trips.
 
 
 ## Deliverables
@@ -36,12 +36,12 @@ For the demonstration of the system, you may use pre-filled data. We would like 
 
 ## Bonus credits
 
-* Make a web interface for both vehicle owner & commuter
-* Implement a hybrid mobile app (Android/iOS)
+* Make a web interface for both vehicle owner & commuter.
+* Implement a hybrid mobile app (Android/iOS).
 * Make an admin web interface where we can see all vehicle owners, commuters, trips, trip requests (past & upcoming) etc.
 * Implement billing logic for each trip:
-  * Vehicle owner mentions cost per kilometer and cost per minute for each vehicle
-  * Trip data is collected from start & end time and distance computation
-  * Payment is collected at end of trip
+  * Vehicle owner mentions cost per kilometer and cost per minute for each vehicle.
+  * Trip data is collected from start & end time and distance computation.
+  * Payment is collected at end of trip.
 
 _&copy; 2018 Renderbit Technologies LLP. All rights reserved._
